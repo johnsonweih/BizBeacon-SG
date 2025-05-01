@@ -1,6 +1,6 @@
 # Intelligent Business Location Advisor System
 
-A full-stack application that provides intelligent business location recommendations using OpenAI's GPT Turbo model.
+A full-stack application that provides intelligent business location recommendations using OpenAI's GPT model.
 
 ## Project Structure
 
